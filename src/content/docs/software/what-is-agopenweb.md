@@ -30,7 +30,7 @@ The split matters when you want it to:
 - A second tablet can show the same screen for a passenger, or for you from the
   loader. Only one screen is in control at a time; the others watch. See
   [Using a second screen](/software/install/second-screen/).
-- The host runs on Windows, macOS, Linux, Android and iPad, and the screen is
+- The host runs on Windows, macOS, Linux and Android, and the screen is
   the same on all of them.
 
 ## There is no AgIO

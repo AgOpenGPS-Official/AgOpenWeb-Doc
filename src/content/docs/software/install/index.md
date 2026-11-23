@@ -1,6 +1,6 @@
 ---
 title: Install
-description: Download AgOpenWeb and install it on Windows, macOS, Linux, Android or iPad.
+description: Download AgOpenWeb and install it on Windows, macOS, Linux or Android.
 sidebar:
   order: 4
 childList: true
@@ -17,7 +17,6 @@ Pick the file for your device:
 | Linux, with a window | `agopenweb-launcher-linux-x64.tar.gz` or `-arm64` | [Linux](/software/install/linux/)     |
 | Linux, no display    | `agopenweb-linux-x64.tar.gz` or `-arm64`          | [Linux](/software/install/linux/)     |
 | Android tablet       | `agopenweb-android.apk`                           | [Android](/software/install/android/) |
-| iPad                 | TestFlight                                        | [iPad](/software/install/ipad/)       |
 
 Every download is complete in itself. You do not need to install .NET or any
 other framework first.

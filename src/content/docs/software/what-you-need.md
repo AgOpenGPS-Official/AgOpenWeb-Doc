@@ -15,7 +15,6 @@ AgOpenWeb runs on any of these:
 | Mac                               | Apple silicon                              |
 | Linux PC or single-board computer | x64 or arm64 (a Raspberry Pi, for example) |
 | Android tablet                    | Android 6.0 or newer                       |
-| iPad                              | Through TestFlight                         |
 
 Every download carries what it needs. There is no .NET or other framework to
 install first.
