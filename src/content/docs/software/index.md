@@ -1,21 +1,22 @@
 ---
 title: 'Software'
-description: The AgOpenWeb software guide is being written.
+description: Installing AgOpenWeb, finding your way round its screen, and trying it with the simulator.
+childList: true
 ---
 
-:::note[Coming soon]
-The AgOpenWeb software guide is being written for Release 1: installing it,
-connecting your hardware, RTK corrections, fields, tracks, U-turns and section
-control.
+This section covers AgOpenWeb itself: what it is, how to install it, what is on
+the screen, and how to try it at the kitchen table before going near the
+tractor.
+
+:::note[More is on the way]
+The pages on connecting your hardware, setting up the vehicle and tool, fields,
+guidance, U-turns and section control are being written. Until they are here,
+ask on [Discourse](https://discourse.agopengps.com) or in the
+[Telegram group](https://t.me/AgOpenGPSInternational).
 :::
 
-Until it is here:
+If something goes wrong, report it on
+[GitHub](https://github.com/AgOpenGPS-Official/AgOpenWeb/issues), or with **Bug
+Report Dump** in the app's File menu.
 
-- **Download:** the current builds for Windows, macOS, Linux and Android are on
-  the
-  [AgOpenWeb releases page](https://github.com/AgOpenGPS-Official/AgOpenWeb/releases).
-- **Questions:** ask on [Discourse](https://discourse.agopengps.com) or in the
-  [Telegram group](https://t.me/AgOpenGPSInternational).
-- **Problems:** report them on
-  [GitHub](https://github.com/AgOpenGPS-Official/AgOpenWeb/issues), or with
-  **Bug Report Dump** in the app's main menu.
+### Contents
