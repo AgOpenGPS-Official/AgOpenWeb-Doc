@@ -1,16 +1,16 @@
 ---
 title: 'Software'
-description: Installing AgOpenWeb, finding your way round its screen, and trying it with the simulator.
+description: Installing AgOpenWeb, finding your way round its screen, connecting your hardware and setting up the machine.
 childList: true
 ---
 
 This section covers AgOpenWeb itself: what it is, how to install it, what is on
-the screen, and how to try it at the kitchen table before going near the
-tractor.
+the screen, how to try it at the kitchen table, and then how to connect it to
+the tractor and set up the machine.
 
 :::note[More is on the way]
-The pages on connecting your hardware, setting up the vehicle and tool, fields,
-guidance, U-turns and section control are being written. Until they are here,
+The pages on fields, guidance, U-turns and section control are being written.
+Until they are here,
 ask on [Discourse](https://discourse.agopengps.com) or in the
 [Telegram group](https://t.me/AgOpenGPSInternational).
 :::
