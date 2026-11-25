@@ -73,7 +73,7 @@ Each button opens a panel. From the top:
    the field.
 7. **Field Tools.** The Field Builder, boundaries, recorded paths, importing
    tracks from another field, deleting the applied area, and the GPS offset
-   fix.
+   fix. See [Fields and boundaries](/software/fields-and-boundaries/).
 8. **Network IO.** Your modules on the network, and the RTK corrections
    (NTRIP).
 
