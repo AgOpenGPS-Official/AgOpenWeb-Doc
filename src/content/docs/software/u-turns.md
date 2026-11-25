@@ -30,9 +30,8 @@ line, and the turn is kept inside it.
 
 The headland plays no part in the turn. It is for the sections, the hydraulic
 lift and the drawing. If the headland is narrower than the turn is deep, the
-turn starts before the headland line, with the sections still working, and the
-status bar says **Headland too narrow for this U-turn**. Widen the headland or
-reduce the turn radius.
+turn starts before the headland line, with the sections still working. Widen
+the headland or reduce the turn radius.
 
 ## Automatic U-turns
 
@@ -71,7 +70,8 @@ from 0 to 9. At 0 the turn lands on the pass beside the one you are on.
 | Alternative        | The turns go out and back across the field, a long jump then one a pass shorter, so every turn is wide and every pass still gets worked |
 | Skip worked tracks | Each turn goes to the nearest pass not yet worked, in the order planned for the field                                                   |
 
-When no pass is left to work, the status bar says **End of field reached**.
+When no pass is left to work, a message near the bottom of the map says **End
+of field reached**.
 
 ### Wide turns
 
@@ -159,8 +159,8 @@ moves turns in that would have fitted, or refuses them.
 
 ## When no turn is made
 
-AgOpenWeb says why on the status bar, with a sound, and you take over at the
-end of the pass. The messages you will see most:
+AgOpenWeb says why in a message near the bottom of the map, with a sound, and
+you take over at the end of the pass. The messages you will see most:
 
 | Message                                                                                           | What it means                                                                                                                           |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
