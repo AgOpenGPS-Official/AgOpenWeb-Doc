@@ -119,7 +119,8 @@ Three bars stack at the bottom of the map.
 button.
 
 **The section buttons** show one button for each section of your tool. Tap one
-to step it through **Off**, **Auto** and **On**.
+to step it through **Off**, **Auto** and **On**. See
+[Section control](/software/section-control/).
 
 **The field bar**, from left to right:
 

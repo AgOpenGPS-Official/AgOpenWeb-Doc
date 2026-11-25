@@ -127,6 +127,9 @@ The worked area is painted in the **Coverage colour**. Switch
 | Slow speed cutoff    | Below this speed all sections are off                                                                                |
 | Coverage margin      | Extra width painted at each edge of the worked area, so that small GPS movements do not leave slivers between passes |
 
+How the sections behave in the field: see
+[Section control](/software/section-control/).
+
 ## Switches
 
 Switches wired to your modules can work the sections.
