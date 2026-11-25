@@ -5,20 +5,19 @@ sidebar:
   hidden: true
 ---
 
-Serial (aka "COM") ports are an old and simple way of having two pieces of
-physical hardware talk to each other. You may have heard the term RS232 and
-that's typically what we're looking at here.
+Serial (also called "COM") ports are an old and simple way for two pieces of
+hardware to talk to each other. You may have heard the term RS232, and that is
+typically what we mean here.
 
-An actual COM port is pretty hard to come by on modern hardware, having been
-largely superseded by USB - but when you plug an Arduino or Teensy via USB into
-your computer, it will still start what's known as a "virtual COM port" so it
-can talk to your computer.
+A real COM port is hard to find on modern hardware, having been largely
+replaced by USB. But when you plug an Arduino or a Teensy into your computer by
+USB, it still starts what is known as a "virtual COM port" so that it can talk
+to the computer. You use it to load the firmware onto a board.
 
-USB ports aren't ideal for connecting in the tractor, as the vibration and such
-can cause them to come loose resulting in your losing connection temporarily.
-You may even have to go into AGIO to restart the communication process when the
-connection resumes. As a result, if you're building a board, [udp](/hardware/faq/udp/) is
-the preferred connection method.
+**AgOpenWeb does not read serial or COM ports at all.** It takes everything
+from the network, by [UDP](/hardware/faq/udp/). USB is not ideal in a tractor
+anyway: vibration can work the plug loose, and the connection drops.
 
-Not to say that serial/COM ports are completely useless, but in the future,
-support for them in AOG may be dropped.
+A GPS receiver on a USB cable alone needs a small bridge program that passes
+its output on over the network: see
+[GPS receivers, a receiver on USB](/software/connect/gps-receivers/#a-receiver-on-usb).

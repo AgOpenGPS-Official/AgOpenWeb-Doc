@@ -12,13 +12,13 @@ in in due course. If you can help with text, or want to suggest other topics,
 please do so in the Discourse._
 
 - [Help! I need to speak to someone!](/hardware/faq/help-i-need-to-speak-to-someone/)
-- AGIO
+- Network and corrections (AgIO's job in AgOpenGPS)
   - [UDP](/hardware/faq/udp/)
   - [RTK/NTRIP corrections](/hardware/faq/rtk-ntrip-corrections/)
   - [Serial/COM ports](/hardware/faq/serial-com-ports/)
-  - [AgIO and AgOpenGPS - networking](/hardware/networking/)
-- AgOpenGPS
-  - [Is AGIO running? AgIO?](/hardware/faq/is-agio-running-agio/)
+  - [Networking](/hardware/networking/)
+- AgOpenWeb
+  - [GPS data lost (Is AgIO running?)](/hardware/faq/is-agio-running-agio/)
 - U-blox F9P
   - Firmware and configuration fails (TODO: Link)
   - VTG? (TODO: Link)

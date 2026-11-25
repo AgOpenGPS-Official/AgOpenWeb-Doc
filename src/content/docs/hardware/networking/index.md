@@ -12,8 +12,8 @@ https://github.com/AgOpenGPS-Official/Boards/blob/main/PGN.md
 Based on the PGNs one can create modules for the Steering, GPS, Machine, IMU,
 etc.
 
-There's a detailed guide on ethernet configuration
-[here](/software/)
+To see which modules answer, and to put them on the same subnet as the
+computer, see [Network IO](/software/connect/network-io/).
 
 If you are debugging in Wireshark, there's a work-in-progress protocol decoder
 available here:
