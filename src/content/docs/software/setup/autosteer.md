@@ -148,4 +148,5 @@ AutoSteer. The wizard sets all of these.
 
 **Tools** on the left bar has a **Steer Chart**, a **Heading Chart** and an
 **XTE Chart** (distance from the line). They float over the map while you
-drive, which makes tuning much easier to judge.
+drive, which makes tuning much easier to judge. See
+[Charts](/software/charts-logs-bug-reports/#charts).
