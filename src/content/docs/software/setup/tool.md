@@ -140,8 +140,9 @@ Switches wired to your modules can work the sections.
 
 ## The other tabs
 
-- **U-Turn**: the shape and size of the turn at the end of a pass.
+- **U-Turn**: the shape and size of the turn at the end of a pass. See
+  [U-turns](/software/u-turns/#the-u-turn-settings).
 - **Machine**: see [Machine module](/software/setup/machine-module/).
 - **Tram**: tram line width and where the lines start.
 
-U-turns and tram lines have pages of their own, which are being written.
+Tram lines will have a page of their own, which is being written.

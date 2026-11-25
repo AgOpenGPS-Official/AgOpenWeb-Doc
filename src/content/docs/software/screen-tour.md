@@ -88,7 +88,8 @@ on. From the top:
 2. **Manual sections.** Switch all sections on by hand.
 3. **Auto sections.** Let AgOpenWeb switch the sections by what is already
    worked and by the boundary.
-4. **U-Turn.** Make the turns at the end of each pass automatically.
+4. **U-Turn.** Make the turns at the end of each pass automatically. See
+   [U-turns](/software/u-turns/).
 5. **AutoSteer.** Steer along the guidance line.
 
 On an observer's screen these are locked.
