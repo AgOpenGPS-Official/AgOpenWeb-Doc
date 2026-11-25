@@ -106,7 +106,8 @@ With a guidance line active, three things appear under the status bar:
 
 At the upper left of the map are four arrows. The yellow pair starts a
 **U-turn** to the left or right now. The blue pair **moves the guidance to the
-next pass** on that side. Screen & Alerts can hide either pair.
+next pass** on that side. They show only while AutoSteer is on, and not with
+Contour on. Screen & Alerts can hide either pair.
 
 ## Simulator, sections and the field bar (bottom)
 

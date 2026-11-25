@@ -46,7 +46,12 @@ There are 24 pins to assign. For each one, choose what it does:
 | Sec1 to Sec16       | That section is on                   |
 | HydUp, HydDown      | The lift is being raised or lowered  |
 | TramRight, TramLeft | The tram line on that side is active |
-| GeoStop             | As in AgOpenGPS                      |
+| GeoStop             | The tractor is out of the field      |
+
+**GeoStop** counts the tractor as out of the field when the middle of its rear
+axle is outside the field boundary or inside an obstacle (an inner boundary).
+The boundary is drawn red at the same time. During an automatic U-turn it keeps
+the state it had when the turn began. A field with no boundary never sets it.
 
 **Reset pins** puts them back to the starting layout: pins 1 to 6 are sections
 1 to 6, and the rest are unused.
