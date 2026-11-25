@@ -58,8 +58,8 @@ The buttons and the tool on the map show each section's state by colour:
 
 An Auto section comes on when the ground just ahead of it is:
 
-- **not yet worked**: less of it painted than **Min coverage** (70 % unless
-  you set it);
+- **not yet worked**: less of it painted than **Min coverage**. A new tool
+  has 100 %, so any ground not fully worked is enough;
 - **inside the field**, and clear of obstacles;
 - **not in the headland**;
 
