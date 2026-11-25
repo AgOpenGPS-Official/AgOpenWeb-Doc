@@ -41,6 +41,13 @@ open the file again.
   The service installer opens it for you; with the desktop window, Windows asks
   the first time, and you need to allow it.
 
+## The modules stay red on Windows
+
+If the subnet is right and the modules still show red in **Network IO**, the
+modules' network is probably set to **Public**, where Windows blocks what they
+send. Set it to **Private**: see
+[When a module stays red](/software/connect/network-io/#when-a-module-stays-red).
+
 ## The screen says "No connection to AgOpenWeb"
 
 The browser has lost the host. If AgOpenWeb is still running, the screen

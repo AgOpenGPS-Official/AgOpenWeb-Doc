@@ -74,6 +74,12 @@ rest: see [RTK corrections (NTRIP)](/software/connect/ntrip/).
 - Check its power, and that its Ethernet cable is plugged in at both ends.
 - Tap **Scan for Modules**. If an address appears but the dot stays red, the
   subnet is wrong: see above.
+- On Windows, check that the modules' network is set to **Private**. A network
+  with no internet, such as a cab router, often comes up as **Public**, and when
+  Windows first asked whether to allow AgOpenWeb, it ticked private networks
+  only. On a Public network Windows then blocks what the modules send, and their
+  dots stay red. In **Settings › Network & internet**, open **Ethernet**,
+  choose the network, and set **Network profile type** to **Private**.
 - If the tablet is cabled to the modules' router and has also joined that
   router's Wi-Fi, turn its Wi-Fi off. See
   [What you need](/software/what-you-need/#an-ethernet-cable-to-the-modules).
