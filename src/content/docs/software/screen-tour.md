@@ -135,7 +135,8 @@ to step it through **Off**, **Auto** and **On**.
 8. **Nudge left** and
 9. **Nudge right**: move the line sideways by the snap distance.
 10. **Snap to pivot**: move the line to where the tractor is.
-11. **Tram lines**: step through the ways of showing them.
+11. **Tram lines**: step through the ways of showing them. See
+    [Tram lines](/software/tram-lines/).
 12. **Guidance line menu**: make, choose and adjust lines.
 
 Buttons 1, 2, 8, 9 and 10 need a guidance line, and are not shown until you
