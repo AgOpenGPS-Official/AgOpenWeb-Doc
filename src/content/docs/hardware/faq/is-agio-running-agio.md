@@ -1,26 +1,33 @@
 ---
-title: 'Is AGIO running? AgIO?'
+title: 'GPS data lost (Is AgIO running?)'
 sidebar:
   order: 2
   hidden: true
 ---
 
-If you get this message:
+AgOpenWeb has no AgIO, so it never asks whether AgIO is running. When no
+position has arrived for 2 seconds, it shows this over the map instead:
 
-![image](./img/agio-not-running.png)
+![GPS data lost](./img/gps-data-lost.png)
 
-It means one of the following:
+AutoSteer and the sections switch off, and the map stays. The message goes as
+soon as positions arrive again; switch AutoSteer back on yourself.
 
-- AGIO isn't running - ensure it is started by pressing the green button next to
-  the arrow
-- if it is running, but you're still getting that message, ensure AGIO is
-  talking to your steering board
-  - this could mean checking your network settings - see
-    [here](/software/)
-- it could also mean AGIO is running, and your computer is talking to it - but
-  it can't find a valid location. Ensure your antennas are outside and have a
-  clear view of the sky
+It means that **no position is arriving**, and the GPS dot in **Network IO**
+(the last button on the left bar) is red with it:
 
-Remember, this message doesn't just mean "is AGIO running?". What it really
-means is "I don't know where in the world I am" and as above, that could be for
-a number of reasons.
+- Check the GPS module's power and its Ethernet cable, then see
+  [When a module stays red](/software/connect/network-io/#when-a-module-stays-red):
+  the subnet, a tablet on the cable and the Wi-Fi at once, another program on
+  the same computer, and Windows' Public networks.
+- If all of that is right, open [System Data](/software/connect/system-data/)
+  with the **›** on the GPS row. When **Not accepted** keeps climbing, the
+  board is sending lines AgOpenWeb does not read: see
+  [GPS receivers](/software/connect/gps-receivers/).
+
+If positions arrive but the status bar says **No Fix**, the receiver is talking
+but has no position yet. Make sure the antennas are outside with a clear view
+of the sky, and give it a minute.
+
+To try the screen with no GPS at all, start the
+[simulator](/software/simulator/).
