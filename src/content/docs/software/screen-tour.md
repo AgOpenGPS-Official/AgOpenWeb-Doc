@@ -64,7 +64,8 @@ Each button opens a panel. From the top:
    [Charts, logs and bug reports](/software/charts-logs-bug-reports/).
 2. **Screen & Alerts.** What is drawn on the map (grid, field texture, extra
    guide lines, aerial imagery), the day or night theme, the light bar, the
-   size of the buttons, and which sounds play.
+   size of the buttons, and which sounds play. See
+   [Screen & Alerts](/software/screen-and-alerts/).
 3. **Tools.** The Steer Wizard, Roll Correction, and live charts of steering,
    heading and distance from the line. See
    [Charts](/software/charts-logs-bug-reports/#charts).
