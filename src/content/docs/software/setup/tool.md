@@ -123,9 +123,12 @@ The worked area is painted in the **Coverage colour**. Switch
 | -------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Off outside boundary | Switch a section off when it is outside the field boundary                                                           |
 | Off in headland      | Switch a section off when it is in the headland                                                                      |
-| Min coverage         | As in AgOpenGPS: how much of a section must be over unworked ground before it comes on                               |
+| Min coverage         | An Auto section comes on only when less than this much of the ground ahead is worked. A new tool has 100 %           |
 | Slow speed cutoff    | Below this speed all sections are off                                                                                |
 | Coverage margin      | Extra width painted at each edge of the worked area, so that small GPS movements do not leave slivers between passes |
+
+How the sections behave in the field: see
+[Section control](/software/section-control/).
 
 ## Switches
 
