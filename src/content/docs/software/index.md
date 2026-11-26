@@ -9,7 +9,7 @@ the screen, how to try it at the kitchen table, and then how to connect it to
 the tractor and set up the machine.
 
 :::note[More is on the way]
-The pages on fields, guidance, U-turns and section control are being written.
+The pages on fields, guidance and section control are being written.
 Until they are here,
 ask on [Discourse](https://discourse.agopengps.com) or in the
 [Telegram group](https://t.me/AgOpenGPSInternational).
