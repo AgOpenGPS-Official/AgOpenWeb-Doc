@@ -137,7 +137,8 @@ to step it through **Off**, **Auto** and **On**. See
 5. **Section control in headland**: whether sections may come on in the
    headland.
 6. **Headland on/off.**
-7. **Flags**: mark a spot, at the tractor or on the map.
+7. **Flags**: mark a spot, at the tractor or on the map. See
+   [More field tools](/software/more-field-tools/#flags).
 8. **Nudge left** and
 9. **Nudge right**: move the line sideways by the snap distance.
 10. **Snap to pivot**: move the line to where the tractor is.
