@@ -136,13 +136,19 @@ AutoSteer. The wizard sets all of these.
 
 - **Min steer speed** and **Max steer speed**: AutoSteer works only between
   these.
-- **Manual turns** and **Manual turns speed**: as in AgOpenGPS.
+- **Manual turns** and **Manual turns speed**: with **Manual turns** on, the
+  U-turn and next-pass arrows on the map, and **< Pass** and **Pass >** in the
+  guidance line menu, do nothing above this speed (12 km/h to start with). A
+  message says so, such as _Too fast: slow down below 12 kph_.
 
 ### Display
 
 - **Line Width**: how thick guidance lines are drawn.
 - **Nudge distance**: how far one tap of the nudge buttons moves the line.
-- **Next guidance (s)**: as in AgOpenGPS.
+- **Next guidance (s)**: with AutoSteer off, the line shown is the pass
+  nearest to where the tractor will be in this many seconds (1.5 to start
+  with). When you turn onto the next pass by hand, the line moves to it before
+  you get there.
 
 ## Charts
 

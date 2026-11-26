@@ -128,4 +128,6 @@ Where the IMU sits, measured like the antenna: **IMU pivot** forward of the
 rear axle (negative behind it), **IMU height** above the ground, and **IMU
 offset** to the right of the centre line (negative to the left).
 
-Leave all three at 0 if you have not measured them.
+Leave all three at 0 if you have not measured them. AgOpenWeb does not use
+them itself: it passes them to the modules, for a receiver whose own INS needs
+to know where the IMU is, such as the UM981.
