@@ -156,6 +156,8 @@ The last button on the field bar opens everything to do with lines:
 - **Extend** and **shorten** the line at A or at B.
 - **Smooth** a curve, and **delete contour paths**.
 
+See [Guidance lines](/software/guidance-lines/).
+
 ## View controls (lower right)
 
 ![The view controls](./img/camera-pad.png)
