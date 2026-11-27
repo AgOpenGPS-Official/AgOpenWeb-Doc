@@ -73,12 +73,18 @@ yellow.
 
 AgOpenWeb plans a way from the tractor to the path, turning no tighter than
 the tool's U-turn radius, and AutoSteer follows it onto the path and along it.
+The map draws the way there, as it draws a U-turn, and the path being driven,
+whether or not recorded paths are shown in Tracks.
 You drive the speed. The **Auto sections** button is switched on and off as it
 was when you recorded. See [Section control](/software/section-control/#the-buttons).
 
 Playback stops at the end of the path, or when you tap **Stop** (the Play
 button while it plays). AutoSteer goes off when playback starts and when it
-stops.
+stops. While a path plays, you cannot pick another path or start a recording:
+tap **Stop** first.
+
+Closing the field ends it all: a playback stops, the path is put away, and a
+recording that was not saved is lost.
 
 The bin beside a saved path deletes it, after asking.
 

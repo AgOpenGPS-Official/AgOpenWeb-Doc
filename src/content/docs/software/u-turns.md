@@ -64,11 +64,11 @@ from 0 to 9. At 0 the turn lands on the pass beside the one you are on.
 
 **U-turn skip mode**:
 
-| Mode               | What the turns do                                                                                                                       |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Normal             | Every turn jumps the same number of passes                                                                                              |
-| Alternative        | The turns go out and back across the field, a long jump then one a pass shorter, so every turn is wide and every pass still gets worked |
-| Skip worked tracks | Each turn goes to the nearest pass not yet worked, in the order planned for the field                                                   |
+| Mode               | What the turns do                                                                                                                                                                                      |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Normal             | Every turn jumps the same number of passes                                                                                                                                                             |
+| Alternative        | The turns go out and back across the field, a long jump then one a pass shorter, so every turn is wide and every pass still gets worked                                                                |
+| Skip worked tracks | Each turn goes to the next pass not yet worked, in an order planned from **U-turn skip rows**: every second pass at 0 or 1, every third at 2, and so on, working the passes in between on the way back |
 
 When no pass is left to work, a message near the bottom of the map says **End
 of field reached**.

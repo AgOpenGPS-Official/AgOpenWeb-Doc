@@ -51,13 +51,13 @@ line, with a light bar or a steer bar.
 
 ![The light bar, the distance to the headland, three extra guides each side and the Svenn arrow](./img/light-bar.png)
 
-- **Light Bar**: seven squares each side of the distance. They light up on the
-  side to steer to: green to the right, orange to the left. Each square stands
-  for **cm per pixel** (5 cm to start with), so at 5 all seven are lit when you
-  are 35 cm or more off the line. The yellow figure beside the distance is how
+- **Light Bar**: seven arrows each side of the distance, pointing outwards.
+  They light up on the side to steer to: green to the right, orange to the
+  left. Each arrow stands for **cm per pixel** (5 cm to start with), so at 5
+  all seven are lit when you are 35 cm or more off the line. The yellow figure beside the distance is how
   far off you have been on average over the last few seconds. It shows while it
   is under 15 cm.
-- **Steer Bar**: in place of the squares, a yellow bar for how far the front
+- **Steer Bar**: in place of the arrows, a yellow bar for how far the front
   wheels are from the angle the guidance asks for, up to 12°. The arrows point
   the way to turn the steering wheel. Under AutoSteer, it is smaller and paler.
 - **On/Off**: shows or hides the bar, and the distance with it.
