@@ -85,6 +85,12 @@ for it on GitHub. It can be sent once:
 Until then, the line under **Send Report** says what is missing. You can write
 the title and description after **Create Bug Report**, before you send.
 
+**Send Report** works only from an official build: one downloaded from the
+AgOpenWeb releases page, or built from the official repository's `develop` or
+`main` without changes. Any other build, from someone else's copy of the code
+for example, gets **Not sent: This build is not known to the report service**.
+Then use **Download** below and share the zip yourself.
+
 **Add Screenshot or File** adds pictures or other files to the report: up to
 10, 20 MB each and 25 MB in all.
 

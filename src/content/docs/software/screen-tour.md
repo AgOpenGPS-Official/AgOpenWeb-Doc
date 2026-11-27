@@ -101,8 +101,8 @@ On an observer's screen these are locked.
 
 With a guidance line active, three things appear under the status bar:
 
-- **The light bar**: rows of squares that light up to show how far off the
-  line you are, and to which side.
+- **The light bar**: rows of arrows that light up to show how far off the
+  line you are, and which way to steer.
 - **Distance from the line**, in centimetres, with a dot that is green when you
   are on it.
 - **The pass you are on**, such as `↑1L`: its number, and whether it lies to
